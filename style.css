@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+#card{
+    width: 400px;
+    height: fit-content;
+    background-color: rgba(128,128,128, 50%);
+}
+
+#imagem{
+    width: 400px;
+    height: 400px;
+    background-image: url(./imagens/gato.jpg);
+    border-radius: 10px;
+}
+
+.titulo{
+    color: purple;
+    width: 400px;
+}
+
+.text{
+    color: black;
+    width: 400px;
+}
+
+.botao{
+    background-color: greenyellow;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
